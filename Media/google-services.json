@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "671821909733",
+    "firebase_url": "https://cala-beauty-94d29-default-rtdb.firebaseio.com",
+    "project_id": "cala-beauty-94d29",
+    "storage_bucket": "cala-beauty-94d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671821909733:android:ff4acd6be0312c92788e0c",
+        "android_client_info": {
+          "package_name": "calabeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6o6U9l-UvuYAvL2Pn2vNMU68K8kGi7D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
